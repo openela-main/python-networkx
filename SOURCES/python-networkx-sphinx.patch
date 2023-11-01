@@ -1,0 +1,11 @@
+diff -up networkx-networkx-1.11/doc/source/conf.py.sphinx networkx-networkx-1.11/doc/source/conf.py
+--- networkx-networkx-1.11/doc/source/conf.py.sphinx	2016-01-30 10:25:44.000000000 -0700
++++ networkx-networkx-1.11/doc/source/conf.py	2016-12-23 09:54:55.280925006 -0700
+@@ -74,7 +74,6 @@ extensions = [
+     'sphinx.ext.intersphinx',
+     'sphinx.ext.mathjax',
+     'sphinx.ext.napoleon',
+-    'sphinx.ext.pngmath',
+     'sphinx.ext.todo',
+     'sphinx.ext.viewcode',
+     #'sphinxcontrib.bibtex',
